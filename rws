@@ -1,0 +1,6 @@
+git log
+git status
+git init
+git rm --cached <file name>
+git switch <branch name>
+git log --oneline
